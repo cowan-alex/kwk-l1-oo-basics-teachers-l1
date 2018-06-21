@@ -11,6 +11,6 @@ class Shoe
   end
   
   def shoe.condition
-    new
+    puts "new"
   end
 end
