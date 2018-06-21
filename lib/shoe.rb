@@ -10,7 +10,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def Your_shoe_is_as_good_as_new!
+  def shoe.condition
     @condition == "new"
   end
 end
