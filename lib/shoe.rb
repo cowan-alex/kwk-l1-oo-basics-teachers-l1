@@ -12,4 +12,5 @@ class Shoe
   
   def Your_shoe_is_as_good_as_new!
     @condition = condition
+  end
 end
